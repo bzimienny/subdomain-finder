@@ -2,11 +2,11 @@
 Tool for search dns subdomains with dictionaries. 
 # Installation
 First you need to clone repository.
-```
+```linux
 git clone https://github.com/bzimienny/subdomain-finder.git
 ```
 Next you need to move to the cloned repository.
-```
+```linux
 cd subdomain-finder
 ```
 # How to use
@@ -14,6 +14,6 @@ To run you need type "main.py" with python.
 ## Options
 -d "name" domain_name - choose dictionary
 for egzample:
-``` Windows
+``` linux
 python main.py -d example_dictionary.txt google.pl
 ```
