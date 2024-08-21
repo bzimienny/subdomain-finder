@@ -12,8 +12,8 @@ cd subdomain-finder
 # How to use
 To run you need type "main.py" with python.
 ## Options
--d "name" domain_name- choose dictionary
-egzample:
+-d "name" domain_name - choose dictionary
+for egsample:
 ```
     python main.py -d example_dictionary.txt google.pl
 ```
