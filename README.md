@@ -5,3 +5,4 @@ First you need to clone repository.
 ```
     git clone https://github.com/bzimienny/subdomain-finder.git
 ```
+s
