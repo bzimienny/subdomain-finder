@@ -9,6 +9,21 @@ Next you need to move to the cloned repository.
 ```linux
 cd subdomain-finder
 ```
+Setup python:
+``` python
+python -m venv myvenv
+  ###########
+ ###Linux###
+###########
+source ./myvenv/bin/activate
+  ###########
+ ##Windows##
+###########
+./myvenv/bin/activate
+
+pip install requests
+
+```
 # How to use
 To run you need type "main.py" with python.
 ## Options
